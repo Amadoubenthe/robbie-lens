@@ -58,12 +58,15 @@ h1 {
 }
 
 .portfolio-link {
-	background: linear-gradient(#a5b4fc, #acb6e7);
+	background: linear-gradient(#8e86b5, #acaeed);
 	color: #ffffff;
+	border-radius: 50px;
+	padding: 0 8px 0 8px;
 }
 
 .services {
 	padding-bottom: 24px;
+	border: 1px solid #8e86b5;
 }
 
 .important {
