@@ -37,6 +37,10 @@ a {
 	color: black;
 }
 
+a:hover{
+	text-decoration: underline;
+}
+
 section {
 	padding-top: 32px;
 }
@@ -75,4 +79,12 @@ h1 {
 
 .footer-link {
 	background: #ffffff;
+}
+
+a:hover{
+	opacity: 0.5;
+}
+
+img:hover{
+	opacity: 0.5;
 }
